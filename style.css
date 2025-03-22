@@ -38,6 +38,7 @@ body {
 }
 
 #mainContent {
+  margin-inline: 20%;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
@@ -136,9 +137,15 @@ body {
 @media (max-width: 668px) {
   #mainContent {
     grid-template-columns: 1fr;
+    margin-inline: 5%;
   }
 
   .country-card img {
     height: 100px;
+  }
+}
+@media (min-width: 671px) and (max-width: 1299px) {
+  #mainContent {
+    margin-inline: 10%;
   }
 }
