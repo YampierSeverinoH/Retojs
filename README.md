@@ -9,12 +9,3 @@ Diseñada para ser amigable con el usuario y adaptable a cualquier dispositivo.
 Esta aplicación permite a los usuarios explorar información sobre Paises del mundo. 
 Ofrece una interfaz limpia y moderna, con funcionalidades como búsqueda dinámica, visualización en grilla responsiva y un modal que muestra detalles adicionales sobre cada país.
 
----
-
-## 📂 Estructura del Proyecto
-/explorador-paises
-│
-├── index.html # Archivo principal HTML
-├── style.css # Hojas de estilo CSS
-├── script.js # Lógica JavaScript
-└── README.md # Documentación del proyecto
